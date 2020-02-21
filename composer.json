@@ -1,0 +1,17 @@
+{
+    "name": "locojuhi/dafiti-poker",
+    "description": "Technical test for dafiti",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Danny Torres",
+            "email": "danny.torresxd@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
