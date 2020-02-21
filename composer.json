@@ -6,6 +6,11 @@
         "phpunit/phpunit": "^9.0"
     },
     "license": "mit",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
     "authors": [
         {
             "name": "Danny Torres",
